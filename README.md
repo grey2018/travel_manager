@@ -1,4 +1,5 @@
-# **THIS IS CS50. Introduction to Computer Science by Harvard University.**
+# **THIS IS CS50. Introduction to Computer Science**
+# **by Harvard University**
 
 # **CS50x Final Project - TRAVEL MANAGER**
 by **Sergiy Ragulin** from Donetsk, Ukraine on 22.01.2020
