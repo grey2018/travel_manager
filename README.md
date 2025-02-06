@@ -1,5 +1,3 @@
-----------------------------------------------
-----------------------------------------------
 # **THIS IS CS50. Introduction to Computer Science by Harvard University.**
 
 # **CS50x Final Project - TRAVEL MANAGER**
