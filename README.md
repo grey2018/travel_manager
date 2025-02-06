@@ -1,5 +1,5 @@
 # **THIS IS CS50. Introduction to Computer Science**
-by **Harvard University**, Cambridge, Massachusetts, USA
+by **Harvard University**, Cambridge, Massachusetts, USA (via plattform **edX**)
 
 # **CS50x Final Project - TRAVEL MANAGER**
 by **Sergiy Ragulin** from Donetsk, Ukraine on 22.01.2020
