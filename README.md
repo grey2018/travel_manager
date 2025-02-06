@@ -1,6 +1,3 @@
-# Travel Manager
-Web application for managing travel information. CS50 final project.
-
 ----------------------------------------------
 ----------------------------------------------
 # **THIS IS CS50. Introduction to Computer Science by Harvard University.**
